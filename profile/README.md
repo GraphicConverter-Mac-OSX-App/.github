@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/graphicconverter">  
+<a href="https://tubus-jubus-apps.github.io/.github/graphicconverter">  
 <img src="https://img.shields.io/badge/💻_GET_GraphicConverter-brown?style=for-the-badge&logo=apple" alt="GET GraphicConverter">  
 </a>  
 </div>
